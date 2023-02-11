@@ -16,7 +16,7 @@ To run this project, you will need to have the following installed on your local
 
 1. Clone the repository to your local machine by running the following command in your terminal:
 
-git clone https://github.com/YOUR_GITHUB_USERNAME/notes-app.git
+git clone https://github.com/sharmashubam/Front-End-Blog.git
 
 
 This will start the development server and you can access the application in your browser by visiting `http://localhost:3000/`.
